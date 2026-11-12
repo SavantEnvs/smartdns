@@ -1,0 +1,4 @@
+CONNECT dns.example.com:443 HTTP/1.1
+Host: dns.example.com:443
+Proxy-Authorization: Basic dXNlcjpwYXNz
+
